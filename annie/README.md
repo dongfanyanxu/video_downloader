@@ -3,7 +3,7 @@ Usage:(Just support Douyin for now)
 $annie "Url of Douyin"
 
 ******************************************************
-for example: 
+
 $annie https://www.iesdouyin.com/share/video/6796893983617420558/?region=HK&mid=6796866665373141764&u_code=0&titleType=title
 
 Site:  Douyin douyin.com
