@@ -6,7 +6,7 @@ $./annie "Url of iesDouyin.com"
 
 ******************************************************
 
-$annie https://www.iesdouyin.com/share/video/6796893983617420558/?region=HK&mid=6796866665373141764&u_code=0&titleType=title<br>
+$./annie https://www.iesdouyin.com/share/video/6796893983617420558/?region=HK&mid=6796866665373141764&u_code=0&titleType=title<br>
 
 Site:  Douyin douyin.com <br>
 Title:  #安徽挖机达人大赛 宣城22401+吴达龙，感谢大家的点赞👍 <br>
