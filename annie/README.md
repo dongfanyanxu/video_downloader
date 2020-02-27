@@ -1,6 +1,7 @@
-Usage:(Just support the download of Douyin's video)
+#1 Installation<br>
+$git clone https://github.com/frdmu/video_downloader<br>
 
-linux
+#2 Usage:(Just support the download of Douyin's video now)
 $./annie "Url of iesDouyin.com"
 
 ******************************************************
