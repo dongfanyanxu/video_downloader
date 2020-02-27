@@ -1,6 +1,7 @@
 Usage:(Just support the download of Douyin's video)
 
-$annie "Url of iesDouyin.com"
+linux
+$./annie "Url of iesDouyin.com"
 
 ******************************************************
 
